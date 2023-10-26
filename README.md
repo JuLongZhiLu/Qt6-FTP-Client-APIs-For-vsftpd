@@ -5,7 +5,7 @@
 ### 简介
 用Qt6写的针对vsftpd的FTP客户端APIs
 
-### 目前的支持的功能
+### 目前支持的功能
 - PASV模式
 - GET
 - LIST
